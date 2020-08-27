@@ -1,0 +1,40 @@
+/* stylesheet.css */
+/* Lex van Os */
+
+header	{background-color: rgb(255, 99, 71);			 	    /* groen */
+			height: 80px;
+			width:	width: 40%;
+			border: 10px solid black;
+			margin: 25px;
+			border: 12px solid black;
+		}
+main	{background-color: hsl(0, 60%, 50%);
+			margin-bottom: 13px;
+			border: 12px solid black;
+
+}	    											/* lichter groen */
+article	{background-color: hsl(0, 40%, 50%);
+			padding-top: 10px;
+			height: 60px;
+			margin-bottom: 13px;
+			border: 12px solid black;
+
+		} 											/* lichter blauw */
+nav		{
+			background-color: hsl(0, 20%, 50%); 	/* donkerder blauw */
+			width: 70%;
+			padding: 30px;
+			width: 95%;
+			border: 12px solid black;
+		}
+		
+body	{
+		
+		background-image
+		
+	
+		}
+		
+a { 
+    color: hotpink;
+}
